@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b30790bd-92da-4edf-884d-0c6338cff279/AppServices/subscriptions/b30790bd-92da-4edf-884d-0c6338cff279/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/weather-botchatmdapp",
+    "appService.deploySubpath": "."
+}
